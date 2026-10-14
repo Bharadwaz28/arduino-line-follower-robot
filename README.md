@@ -146,15 +146,12 @@ The physical prototype of the Arduino-based line follower robot.
 
 ![Arduino Line Follower Robot](images/robot.jpg)
 
-[View Robot Hardware Image](images/robot.jpg)
-
 ### 2. Wiring Diagram
 
 Illustrative wiring reference for the Arduino, five-sensor strip, L298N motor driver, and motors.
 
 ![Arduino Line Follower Robot Wiring Diagram](images/wiring-diagram.png)
 
-[View Wiring Diagram](images/wiring-diagram.png)
 
 ## 🔮 Possible Future Improvements
 
